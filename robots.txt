@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://simdnyan.github.io/sitemap.xml 

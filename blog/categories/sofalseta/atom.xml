@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: その他 | めも]]></title>
+  <link href="http://simdnyan.github.io/blog/categories/sofalseta/atom.xml" rel="self"/>
+  <link href="http://simdnyan.github.io/"/>
+  <updated>2013-09-27T23:50:22+09:00</updated>
+  <id>http://simdnyan.github.io/</id>
+  <author>
+    <name><![CDATA[Yoshinori SHIMADA]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[テスト]]></title>
+    <link href="http://simdnyan.github.io/blog/2013/09/27/test/"/>
+    <updated>2013-09-27T23:39:00+09:00</updated>
+    <id>http://simdnyan.github.io/blog/2013/09/27/test</id>
+    <content type="html"><![CDATA[<p>Octopressでブログを始めました。</p>
+]]></content>
+  </entry>
+  
+</feed>
